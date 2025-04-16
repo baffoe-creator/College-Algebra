@@ -1,4 +1,4 @@
-# Write your code here
+ 
 import math
 from ipywidgets import interactive
 import matplotlib.pyplot as plt
@@ -179,4 +179,4 @@ def financial_app():
 if __name__ == "__main__":
     financial_app()
 
-# This step does not have a test
+ 
